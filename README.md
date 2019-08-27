@@ -19,7 +19,7 @@ In this project, analyze disaster data from Figure Eight to build a model for an
 ### Installing
 Clone this GIT repository:
 
-git clone https://github.com/matteobonanomi/disaster-response.git
+git clone https://github.com/fatimahM9/disastor-response-pipeline.git
 
 ### Executing Program:
 1- Run the following commands in the project's root directory to set up your database and model.
